@@ -97,3 +97,16 @@ The underlying expression data (GSE48301) remain subject to the original GEO / a
 **Dr Roozbeh Heidarzadehpilehrood**  
 Human Geneticist – Transcriptomics & ncRNA biomarkers  
 Contact: heidarzadeh.roozbeh [at] gmail [dot] com
+
+---
+
+## Citation
+
+If you use this pipeline in your work, please cite it as:
+
+Heidarzadehpilehrood R. (2025). heidarzadehroozbeh-cmyk/pcos-wgcna-biomedicines-2023:
+Second release – PCOS WGCNA pipeline (Zenodo DOI) (v1.0.1) [Code]. Zenodo.
+https://doi.org/10.5281/zenodo.17778157
+
+Code in this repository is released under the MIT License. The underlying expression
+data (GSE48301) remain subject to the original GEO / authors’ terms of use.
